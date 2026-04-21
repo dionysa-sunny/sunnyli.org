@@ -5,9 +5,9 @@ Plain HTML/CSS, zero build step. Works in any browser, deploys anywhere.
 ## Files
 
 - `index.html` — the single-page site (sections: intro, research, working papers, teaching, CV, contact)
-- `assets/style.css` — Stanford palette, Source Serif Pro + Source Sans Pro
-- `assets/cv.pdf` — drop your CV here (filename referenced by the download link)
-- `assets/photo.jpg` — add a headshot and replace the `photo-placeholder` div in `index.html`
+- `style.css` — Stanford palette, Source Serif Pro + Source Sans Pro
+- `cv.pdf` — drop your CV here (filename referenced by the download link)
+- `photo.jpg` — add a headshot and replace the `photo-placeholder` div in `index.html`
 
 ## Preview locally
 
